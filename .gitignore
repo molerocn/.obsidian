@@ -1,0 +1,12 @@
+*
+!.gitignore
+!plugins/
+!plugins/*/
+!plugins/*/data.json
+
+!app.json
+!appearance.json
+!community-plugins.json
+!core-plugins.json
+!hotkeys.json
+!templates.json
